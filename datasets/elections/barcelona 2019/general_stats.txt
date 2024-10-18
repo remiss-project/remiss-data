@@ -1,0 +1,4 @@
+Total tweets: 3328189
+Total unique authors: 275039
+First tweet date: 2019-04-01 00:00:00
+Last tweet date: 2019-06-30 23:59:46

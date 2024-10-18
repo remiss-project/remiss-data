@@ -1,0 +1,4 @@
+Total tweets: 880
+Total unique authors: 827
+First tweet date: 2021-07-06 01:35:31
+Last tweet date: 2021-07-16 23:20:57
