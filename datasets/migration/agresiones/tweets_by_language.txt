@@ -1,0 +1,13 @@
+es: 186173
+fr: 193
+zxx: 171
+qme: 169
+ca: 22
+en: 12
+qht: 11
+pt: 8
+und: 4
+in: 2
+lt: 1
+it: 1
+tl: 1
