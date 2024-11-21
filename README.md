@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14201518.svg)](https://doi.org/10.5281/zenodo.14201518)
+
 # Central Data Repository
 This repository contains a collection of tweet IDs collected using the Twitter Academic API during the REMISS project, 
 focusing on election campaigns in Spain and discussions about migration. We used the Twitter’s search to 
