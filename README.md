@@ -40,4 +40,3 @@ as we did during the project development**
 [3]: https://www.verificat.cat/fact-check/les-comunitats-autonomes-amb-mes-violacions-grupals-no-son-les-que-tenen-mes-presencia-de-menors-estrangers-no-acompanyats
 [4]: https://www.verificat.cat/fact-check/andalusia-no-acumula-el-75-de-les-violacions-despanya-ni-la-majoria-son-comeses-per-estrangers
 [5]: https://www.verificat.cat/fact-check/el-jove-que-va-agredir-el-conserge-dun-hotel-de-cambrils-no-es-un-menor-estranger-no-acompanyat
-
